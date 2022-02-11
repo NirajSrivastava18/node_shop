@@ -21,7 +21,7 @@
     "csurf": "^1.11.0",
     "ejs": "^2.7.4",
     "express": "^4.17.1",
-    "express-handlebars": "^3.1.0",
+    "express-handlebars": "^5.3.1",
     "express-session": "^1.17.1",
     "express-validator": "^5.3.1",
     "mongodb": "^3.5.9",
